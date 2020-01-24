@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="imageExpendHight">80dp</dimen>
+    <dimen name="imageCollapsHight">32dp</dimen>
+    <dimen name="imageLeftMarginCollapsed">16dp</dimen>
+    <dimen name="imageTopMarginCollapsed">8dp</dimen>
+</resources>
